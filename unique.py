@@ -7,7 +7,6 @@ from tkinter import filedialog
 Tk().withdraw()
 input_files_path = filedialog.askdirectory()
 input_files_path=input_files_path+"/"
-# input_files_path = r"C:/Users/hassa/OneDrive/Desktop/flag/"
 input_files = [f for f in listdir(input_files_path) if isfile(join(input_files_path, f))]
 input_files = [os.path.join(input_files_path, x) for x in input_files]
 inp_dups = {}
