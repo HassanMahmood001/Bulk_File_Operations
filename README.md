@@ -1,6 +1,6 @@
 ## Bulk_File_Operations
 The scripts can be used to do the following things: 
-* The rename.py file renames all files in a folder with a particular extension
+* The rename.py file renames all files in a folder. File name changes to (MD5_Hash_of_file+Extension). This script can be used to change extension of all files in a folder as well.    
 * The unique.py file deletes duplicate files from a folder
 * The mime.py file filters files in a folder based on MIME type 
 
