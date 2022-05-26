@@ -1,12 +1,13 @@
 ## Bulk_File_Operations
 Following are some scripts which can be used to: 
-* Rename all files in a folder with a particular extension
-* Delete duplicate files from a folder
-* Filter files in a folder based on MIME type 
+* The rename.py file renames all files in a folder with a particular extension
+* The unique.py file deletes duplicate files from a folder
+* The mime.py file filters files in a folder based on MIME type 
 
 
 ## Requirement
 * Python 3 or above
+* pip install -r requirements.txt
 
 ## Google Form
 
