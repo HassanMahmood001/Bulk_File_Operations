@@ -1,5 +1,5 @@
 ## Bulk_File_Operations
-Following are some scripts which can be used to: 
+The scripts can be used to do the following things: 
 * The rename.py file renames all files in a folder with a particular extension
 * The unique.py file deletes duplicate files from a folder
 * The mime.py file filters files in a folder based on MIME type 
