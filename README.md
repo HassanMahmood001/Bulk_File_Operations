@@ -6,7 +6,7 @@ The scripts can be used to do the following things:
 
 
 ## Requirement
-* Python 3 or above
+* Python 3.x /
 * pip install -r requirements.txt
 
 ## Google Form
