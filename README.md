@@ -32,5 +32,5 @@ The scripts can be used to do the following things:
 
 ## License
 
-Released under [Public](/LICENSE) by [@HassanMahmood001](https://github.com/HassanMahmood001).
+Released under [GPL-3.0 license](/LICENSE) by [@HassanMahmood001](https://github.com/HassanMahmood001).
 
