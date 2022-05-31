@@ -35,6 +35,6 @@ The scripts can be used to do the following things:
 Released under [GPL-3.0 license](/LICENSE) by [@HassanMahmood001](https://github.com/HassanMahmood001).
 
 ## buy-me-a-coffee
-Liked some of my work? Buy me a coffee (or more likely a beer)
+Liked some of my work? Buy me a coffee.
 
 <a href="https://www.buymeacoffee.com/hassan01" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
